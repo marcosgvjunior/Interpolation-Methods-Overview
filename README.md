@@ -1,6 +1,6 @@
 # Interpolation Methods Overview
 
-This repository contains a notebook with the fundamentals of interpolation methods.
+This repository contains the fundamentals of interpolation methods. The notebook begins with an introduction to interpolation, introduces the Vandermonde matrix, delves into the Lagrange polynomial interpolation method, addresses Runge's phenomenon, explores segmented interpolation techniques like splines, and investigates Chebyshev nodes to explain their application in reducing interpolation error.
 
 ## Description
 
